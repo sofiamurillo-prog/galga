@@ -1,0 +1,51 @@
+{
+    "name": "Galga 1",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.58",
+        "tag": "v2.0.58",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/010286efe8ce034a83ea60ee9c4663378a171228",
+        "target": "2.0.62",
+        "pxt": "11.3.62",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f4f4f4",
+        "#b13e53",
+        "#a7f070",
+        "#ef7d57",
+        "#ffcd75",
+        "#257179",
+        "#38b764",
+        "#29366f",
+        "#3b5dc9",
+        "#41a6f6",
+        "#566c86",
+        "#333c57",
+        "#94b0c2",
+        "#5d275d",
+        "#1a1c2c"
+    ]
+}
